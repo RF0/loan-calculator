@@ -1,6 +1,6 @@
 {
     "name": "loancalculator",
-    "owner": "compliancedb",
+    "owner": "RF0",
     "description": "The loan calculator application",
     "visibility": "private",
     "template": [
